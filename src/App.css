@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+body {
+  background-image: url('pokemon-1624022_1280.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -38,5 +45,5 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #5b0404;
 }
